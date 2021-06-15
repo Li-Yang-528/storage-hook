@@ -1,3 +1,5 @@
+import storage from '../Storage';
+
 export default function VuePlugin(app) {
   if(VuePlugin.installed) {
     return 
