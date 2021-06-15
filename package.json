@@ -1,6 +1,6 @@
 {
   "name": "@didi/storage-hook",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "操作local/session的react hook",
   "main": "dist/storage-hoo.min.js",
   "scripts": {
